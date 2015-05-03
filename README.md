@@ -11,5 +11,8 @@ https://github.com/wahyutaufik/deticlone
 $ git clone https://github.com/wahyutaufik/deticlone.git
 import test_wahyu.sql to phpmyAdmin
 change password host configuration on 'config/koneksi.php'
+default user:
+	username : admin
+	password : password
 
 ```
